@@ -1,0 +1,94 @@
+
+h1,h3,h6{
+	font-weight: 500;    
+	color:#666666;
+}
+
+h1{
+
+	font-size: 50px;
+}
+
+h2{
+
+	font-size: 45px;
+	color:#ffffff;
+}
+
+header{
+
+	background: url(../img/header.jpg) no-repeat center; /* Header con la imagen de contenido de fondo*/
+	background-size: cover;
+	width: 100%;
+	min-height: 930px;
+	margin-top: -20px;
+	margin-bottom: -40px;
+}
+
+.centrado{
+	margin:40px 0;
+	text-align: center;
+}
+
+.centrado-portada{
+	margin:160px 0;
+	text-align: center;
+	
+}
+
+.secondbg{
+
+	background: url(../img/fondo.jpg) no-repeat center; /* Seccion con imagen de fondo*/
+	background-size: cover;
+	width: 100%;
+	min-height: 680px;
+	margin-top: -20px;
+	margin-right:  -10px;
+	margin-left: -10px;
+	margin-bottom: -20px;
+}
+
+.centrado-second{
+
+	margin:150px 0;
+	text-align: center;
+}
+
+.abmargin{
+	margin:60px 0;
+	margin-bottom: 80px;
+}
+
+.kptouch{
+
+	padding: 50px 0 60px;
+	background-color: #000000;
+	text-align: center;
+	color: #ffffff;
+	margin-top: -20px;
+	margin-bottom: -20px;
+
+}
+
+.impbg {
+	background-color: #000000;
+	border: 1px solid #ffffff;
+	color: #fff;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+}
+
+.icon{
+
+	color: #00CCFF;   /*Para hacer mas grandes los iconos*/
+	font-size: 2em;
+}
+
+.indcolor
+{
+	color: #666666;
+}
+
+.gi-4x{
+	font-size: 4em;
+}
